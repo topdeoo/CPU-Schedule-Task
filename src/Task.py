@@ -29,5 +29,3 @@ class Task:
     def __lt__(self, other):
         return self.cores * self.duration > other.cores * other.duration
 
-    
-

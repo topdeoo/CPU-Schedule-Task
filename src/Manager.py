@@ -110,18 +110,12 @@ class Manager:
 
         while self.rcl_list.__len__() > 0:
 
-            flag = False
-
             task = self.rcl_list.pop(0)
             
             for machine_id in self.machine_list.keys():
                 if self._able_to_add_task_to_machine(task.id, machine_id):
                     self._add_task_to_machine(task.id, machine_id)
-                    flag = True
                     break
-            
-            if flag == False:
-                break;
     
 
     def local_search(self):
