@@ -1,0 +1,25 @@
+machine_1 4 5 7
+machine_2 8 0 14
+machine_3 16 3 21
+machine_4 10 7 13
+machine_5 32 7 14
+task_1 7 2 2 13
+task_2 2 8 9 17
+task_3 7 8 11 18
+task_4 4 10 7 22
+task_5 8 2 5 19
+task_6 7 11 9 9
+task_7 3 23 4 10
+task_8 3 19 2 19
+task_9 1 10 15 23
+task_10 3 5 0 2
+task_11 8 2 10 11
+task_12 5 7 15 16
+task_13 3 7 10 13
+task_14 5 9 5 12
+task_15 4 7 12 18
+task_16 3 15 3 18
+task_17 8 6 0 9
+task_18 2 10 7 20
+task_19 2 24 0 9
+task_20 3 11 18 19
